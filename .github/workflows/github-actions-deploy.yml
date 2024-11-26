@@ -29,7 +29,7 @@ jobs:
         key: ${{ secrets.EC2_SSH_KEY }}
         script: |
           pm2 delete my-app || echo "No existing process found"
-          cd JS.AWS_EC2_Test  
+          cd RickGalarza  
           git pull origin main
           npm install
           npm run build
