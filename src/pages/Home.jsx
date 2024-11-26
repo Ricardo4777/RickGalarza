@@ -23,7 +23,7 @@ const Home = () => {
                   <BiHomeAlt2 /> Inicio
                 </h1>
                 <p className="lead fs-2 text-muted">
-                  Sitio web de personajes y episodios de Rick And Morty. :D
+                  Sitio web de personajes y episodios de Rick And Morty. :D ANDY GALARZA
                 </p>
                 <div className="d-flex gap-3 flex-row justify-content-center">
                   <Button
