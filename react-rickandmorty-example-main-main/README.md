@@ -1,4 +1,4 @@
-# Ejemplo React: Rick and Morty
+# Ejemplo React: Rick and Morty Galarza Andy Programación distribuida
 
 <p align="center">
     <img src="https://www.latercera.com/resizer/wYOVxpChZfy-GAe1pocnF7oUp68=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/MITDV2TMLRAIBAOKSLREQAFNTA.jpeg">
