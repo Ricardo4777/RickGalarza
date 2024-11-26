@@ -51,7 +51,7 @@ const Home = () => {
                       target="_blank"
                       rel="noreferrer"
                     >
-                      Sebastián García Delgadillo
+                      
                     </a>
                     , utilizando <SiReact /> React y <SiVite /> Vite. Desplegado
                     con <SiGithub /> GitHub Pages.

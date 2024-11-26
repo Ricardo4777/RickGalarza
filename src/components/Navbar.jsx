@@ -102,7 +102,7 @@ const Navbar = () => {
             <div className="container">
               <div className="row">
                 <a
-                  href="https://github.com/sebaignacioo/react-rickandmorty-example"
+                  href="https://github.com/Ricardo4777/RickGalarza.git"
                   target="_blank"
                   rel="noreferrer"
                   className="col nav-item"
